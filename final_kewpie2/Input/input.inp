@@ -42,4 +42,4 @@
 CaPu.dat	// Name of the fusion file (irrelevant if fusion file not used)
 Koura.dat	// Name of the mass table (irrelevant if Moller-Nix used)
 MollerFisBar.dat	// Name of the fission-barrier file (see README)
-Example_cross-sections.dat		// Name of the output file
+cross-sections.dat		// Name of the output file
